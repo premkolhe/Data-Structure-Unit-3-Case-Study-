@@ -1,0 +1,17 @@
+STACK OPERATIONS
+Pushed Book A onto the stack.
+Pushed Book B onto the stack.
+Pushed Book C onto the stack.
+Stack (top to bottom): Book C -> Book B -> Book A -> None
+Top of stack: Book C
+Popped Book C from the stack.
+Stack (top to bottom): Book B -> Book A -> None
+
+QUEUE OPERATIONS
+Enqueued Customer 1 into the queue.
+Enqueued Customer 2 into the queue.
+Enqueued Customer 3 into the queue.
+Queue (front to rear): Customer 1 -> Customer 2 -> Customer 3 -> None
+Front of queue: Customer 1
+Dequeued Customer 1 from the queue.
+Queue (front to rear): Customer 2 -> Customer 3 -> None
